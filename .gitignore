@@ -88,3 +88,7 @@ crashlytics-build.properties
 /SmartPinchGlove/Assets/PaidAssets/
 /SmartPinchGlove/Assets/test/
 /SmartPinchGlove/Library/
+
+#종재
+/Result_Pnl/Assets/PaidAssets/
+/Result_Pnl/Library/
